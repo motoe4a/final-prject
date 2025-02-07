@@ -41,10 +41,3 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 Project maintainers are obligated to maintain confidentiality regarding the reporter of an incident.
 
 Further details of specific enforcement policies may be posted separately.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1.
-
-For answers to common questions, see the [FAQ](https://www.contributor-covenant.org/faq/).
-
